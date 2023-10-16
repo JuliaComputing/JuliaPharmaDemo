@@ -11,8 +11,9 @@ Links to success stories of Julia usage in the Pharma space:
 - AstraZeneca: [Probabilistic Modelling in Julia for Predicting Toxicity](https://juliahub.com/case-studies/astra-zeneca/)
 - United Therapeutics: [Computational Model of the Lung for Drug Development in Julia](https://juliahub.com/case-studies/united-therapeutics/)
 ____
-Program Julia on the cloud: https://juliahub.com/products/overview/
-Julia QSP software: https://juliahub.com/products/pumas-qsp/
+Products: 
+- JuliaHub - Program Julia on the cloud: https://juliahub.com/products/overview/
+- PumasQSP - Julia QSP software: https://juliahub.com/products/pumas-qsp/
 ____
 #### General resources
   * Official website with tutorial videos and notebooks: https://julialang.org and https://julialang.org/learning/notebooks
