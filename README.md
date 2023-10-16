@@ -1,1 +1,30 @@
 # JuliaPharmaDemo
+
+____
+#### General resources
+  * Official website with tutorial videos and notebooks: https://julialang.org and https://julialang.org/learning/notebooks
+  * Download and install Julia: https://julialang.org/downloads
+  * Julia Academy, for free courses by core Julia developers: https://juliaacademy.com
+  * The Julia Programming Language youtube channel: https://www.youtube.com/c/TheJuliaLanguage
+  ____
+#### Intermediate language features
+  * "Developing Julia Packages" tutorial by Chris Rackauckas: https://www.youtube.com/watch?v=QVmU29rCjaA
+  * "The Unreasonable Effectiveness of Multiple Dispatch" talk by Stefan Karpinski: https://www.youtube.com/watch?v=kc9HwsxE1OY
+  * Introduction to metaprogramming workshop by David Sanders: https://www.youtube.com/watch?v=2QLhw6LVaq0
+  ____
+#### Switching to Julia
+  * Using old R code in your new Julia project: https://juliainterop.github.io/RCall.jl/stable/gettingstarted/
+  ____
+#### Julia for biologists
+  * BioJulia organisation website for bioinformatics packages and discussion: https://biojulia.net
+  * Package searching on JuliaHub and Julia Observer: https://juliahub.com/ui/Packages and https://juliaobserver.com/categories/Biology
+  * "Julia for Bioinformatics and Computational Biology" talk by Ben Ward, note this talk is from 2016 and some of the details are [out of date](https://biojulia.net/post/biojl): https://www.youtube.com/watch?v=0aa3g1NrLBM
+  * "On the performance and design of BioSequences compared to the Seq language" blog post by Jakob Nybo Nissen and Ben J. Ward, which discusses some design tradeoffs and benchmarking in detail: https://biojulia.net/post/seq-lang
+  ____
+#### Community
+  * Discourse, the main discussion forum for the Julia community: https://discourse.julialang.org
+  * Slack, for quick and informal correspondence with a community of over 8,000 members: https://julialang.org/slack
+  * Zulip, similar to Slack with unlimited message history: https://julialang.zulipchat.com
+  * JuliaCon, the conference for all things Julia: https://juliacon.org
+  * Current diversity and inclusion initiatives: https://julialang.org/diversity/current
+____
