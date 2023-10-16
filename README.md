@@ -1,5 +1,18 @@
 # JuliaPharmaDemo
+To have a quick look at the static version of the notebook click [here]().
 
+To open the notebook interactively follow these steps:
+1. ... 
+2. 
+3.
+____
+Links to success stories of Julia usage in the Pharma space:
+- Pfizer: [Simulations of Novel Pharmacology of a Treatment for Heart Failure Sped up by 175x Faster using GPUs in Julia](https://juliahub.com/case-studies/pfizer/)
+- AstraZeneca: [Probabilistic Modelling in Julia for Predicting Toxicity](https://juliahub.com/case-studies/astra-zeneca/)
+- United Therapeutics: [Computational Model of the Lung for Drug Development in Julia](https://juliahub.com/case-studies/united-therapeutics/)
+____
+Program Julia on the cloud: https://juliahub.com/products/overview/
+Julia QSP software: https://juliahub.com/products/pumas-qsp/
 ____
 #### General resources
   * Official website with tutorial videos and notebooks: https://julialang.org and https://julialang.org/learning/notebooks
@@ -28,3 +41,5 @@ ____
   * JuliaCon, the conference for all things Julia: https://juliacon.org
   * Current diversity and inclusion initiatives: https://julialang.org/diversity/current
 ____
+Adapted from the [online material](https://github.com/ElisabethRoesch/Perspective_Julia_for_Biologists) of 
+> Roesch, E. et al. Julia for biologists. Nat Methods 20, 655–664 (2023). https://doi.org/10.1038/s41592-023-01832-z
