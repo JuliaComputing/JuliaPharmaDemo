@@ -1,4 +1,6 @@
 # JuliaPharmaDemo
+___
+#### Presentation material
 To have a quick look at the static version of the notebook click [here]().
 
 To open the notebook interactively follow these steps:
@@ -6,12 +8,12 @@ To open the notebook interactively follow these steps:
 2. 
 3.
 ____
-Links to success stories of Julia usage in the Pharma space:
+#### Links to success stories of Julia usage in the Pharma space
 - Pfizer: [Simulations of Novel Pharmacology of a Treatment for Heart Failure Sped up by 175x Faster using GPUs in Julia](https://juliahub.com/case-studies/pfizer/)
 - AstraZeneca: [Probabilistic Modelling in Julia for Predicting Toxicity](https://juliahub.com/case-studies/astra-zeneca/)
 - United Therapeutics: [Computational Model of the Lung for Drug Development in Julia](https://juliahub.com/case-studies/united-therapeutics/)
 ____
-Products: 
+#### Products 
 - JuliaHub - Program Julia on the cloud: https://juliahub.com/products/overview/
 - PumasQSP - Julia QSP software: https://juliahub.com/products/pumas-qsp/
 ____
