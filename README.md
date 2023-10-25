@@ -1,8 +1,8 @@
 # JuliaPharmaDemo
 ___
-#### Presentation material
+#### Presentation material Viral
 Slides: [pdf](https://github.com/JuliaComputing/JuliaPharmaDemo/blob/main/RinPharma%202023.pdf) 
-
+#### Presentation material Elisabeth
 To have a quick look at the static version of the notebooks download the html files and open them in your browser:
 - [Motivation](https://github.com/JuliaComputing/JuliaPharmaDemo/blob/main/html/Julia_motivation.html)
 - [Julia workflow](https://github.com/JuliaComputing/JuliaPharmaDemo/blob/main/html/Julia_example_workflow.html)
