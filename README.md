@@ -1,12 +1,12 @@
 # JuliaPharmaDemo
 ___
 #### Presentation material
-To have a quick look at the static version of the notebook click [here]().
+To have a quick look at the static version of the notebooks:
+- [Motivation](https://github.com/JuliaComputing/JuliaPharmaDemo/blob/main/html/Julia_motivation.html)
+- [Julia workflow](https://github.com/JuliaComputing/JuliaPharmaDemo/blob/main/html/Julia_example_workflow.html)
+- [PumasQSP workflow](https://github.com/JuliaComputing/JuliaPharmaDemo/blob/main/html/PumasQSP_example_workflow.html)
 
-To open the notebook interactively follow these steps:
-1. ... 
-2. 
-3.
+To open the notebook interactively follow these steps described on [plutojl.org](https://plutojl.org).
 ____
 #### Links to success stories of Julia usage in the Pharma space
 - Pfizer: [Simulations of Novel Pharmacology of a Treatment for Heart Failure Sped up by 175x Faster using GPUs in Julia](https://juliahub.com/case-studies/pfizer/)
