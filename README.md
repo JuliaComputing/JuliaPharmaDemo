@@ -1,5 +1,7 @@
 # JuliaPharmaDemo
 ___
+
+Contact us: elisabeth.roesch@juliahub.com or sales@juliahub.com
 #### Presentation material Viral
 Slides: [pdf](https://github.com/JuliaComputing/JuliaPharmaDemo/blob/main/RinPharma%202023.pdf) 
 #### Presentation material Elisabeth
